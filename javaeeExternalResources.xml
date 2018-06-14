@@ -1,0 +1,13 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://cocoon.apache.org/schema/avalon" location="$USER_HOME$/.IdeaIC2018.1/system/extResources/323b6aae_cocoon-avalon-1.0.xsd" />
+    <resource url="http://cocoon.apache.org/schema/configurator" location="$USER_HOME$/.IdeaIC2018.1/system/extResources/70c0441d_cocoon-configurator-1.0.1.xsd" />
+    <resource url="http://java.sun.com/xml/ns/j2ee" location="$USER_HOME$/.IdeaIC2018.1/system/extResources/ebb69b6c_web-app_2_4.xsd" />
+    <resource url="http://www.ibm.com/webservices/xsd/j2ee_web_services_client_1_1.xsd" location="$USER_HOME$/.IdeaIC2018.1/system/extResources/a3d13bdd_j2ee_web_services_client_1_1.xsd" />
+    <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/.IdeaIC2018.1/system/extResources/6e49288e_spring-beans-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-2.0.xsd" location="$USER_HOME$/.IdeaIC2018.1/system/extResources/6e49288e_spring-beans-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-2.0.xsd" location="$USER_HOME$/.IdeaIC2018.1/system/extResources/2a73ae60_spring-tool-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/util" location="$USER_HOME$/.IdeaIC2018.1/system/extResources/a8bb5834_spring-util-2.0.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IdeaIC2018.1/system/extResources/9b192256_xml.xsd" />
+  </component>
+</application>
